@@ -4,7 +4,7 @@
 
 @section('content')
 <main>
-    <h1>Home page</h1>
+    <h1>Benvenuto nella Homepage di TrainBoolean</h1>
 </main>
 
 @endsection
